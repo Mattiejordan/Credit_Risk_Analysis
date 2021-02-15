@@ -8,10 +8,14 @@ models I'll reduce bias and predict credit risk. To help me clarify the output o
 I've used this source for information on Precision, Recall and F1 Scores. 
 [Source](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9)
 ![images/Precision](images/Precision.PNG)
+Precision
+_________________________________________________
 ![images/Recall](images/Recall.PNG)
+Recall
+_________________________________________________
 ![images/F1Score](images/F1Score.PNG) 
 Images from [Source](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9)
-
+_________________________________________________
 
 For the next three algorithms, the following have been completed:
 [Credit_Risk_Resampling](https://github.com/Mattiejordan/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)

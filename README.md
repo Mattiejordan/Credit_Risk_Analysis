@@ -12,6 +12,7 @@ I've used this source for information on Precision, Recall and F1 Scores.
 ![images/F1Score](images/F1Score.PNG) 
 Images from [Source](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9)
 
+
 For the next three algorithms, the following have been completed:
 [Credit_Risk_Resampling](https://github.com/Mattiejordan/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
 
@@ -47,5 +48,10 @@ recall, and ultimately highest F1 Scores are the best percentages compared to th
 both have the highest F1-Scores of 0.93. 
 
 ![images/3.easye](images/3.easye.PNG)
+________________________________________________
 ![images/easyprecision](images/easyprecision.png)
+Precision
+________________________________________________
 ![images/easyrecall](images/easyrecall.png)
+Recall
+_______________________________________________

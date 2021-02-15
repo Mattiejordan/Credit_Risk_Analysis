@@ -47,5 +47,5 @@ recall, and ultimately highest F1 Scores are the best percentages compared to th
 both have the highest F1-Scores of 0.93. 
 
 ![images/3.easye](images/3.easye.PNG)
-![images/easyprecision](images/easyprecision.PNG)
-![images/easyrecall](images/easyrecall.PNG)
+![images/easyprecision](images/easyprecision.png)
+![images/easyrecall](images/easyrecall.png)

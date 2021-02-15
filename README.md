@@ -33,23 +33,19 @@ The combinatorial SMOTEENN algorithm does the following:
 * Smote Over- and UnderSampling using SMOTEENN has an accuracy of 0.64862
 __________________________________________________________________________________
 ![images/5.balancedrandomforest0.87352513](images/5.balancedrandomforest0.87352513.PNG)
-* Balanced Random Forest Classifier has an accuracy of 0.87352
+* ### Balanced Random Forest Classifier has an accuracy of 0.87352
 __________________________________________________________________________________
 ![images/6.easyensembleadaboost0.873525](images/6.easyensembleadaboost0.873525.PNG)
-* Easy Ensemble AdaBoost Classifier has an accuracy of 0.87352
+* ### Easy Ensemble AdaBoost Classifier has an accuracy of 0.87352
 __________________________________________________________________________________
 
-Summary: Summarize the results of the machine learning models, and include 
-a recommendation on the model to use, if any. If you do not recommend any 
-of the models, justify your reasoning.
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there 
-is no recommendation with a justification (3 pt)
+Summary:
 
 I have found using the machine learning models BalancedRandomForestClassifier and the EasyEnsembleClassifier
 that I reduce bias and both are highly rated for use in analyzing credit data. Across the board their precision, 
-recall, and ultimately highest F1 Scores are the best percentages compared to the previous models. 
+recall, and ultimately highest F1 Scores are the best percentages compared to the previous models. They have 
+both have the highest F1-Scores of 0.93. 
 
 ![images/3.easye](images/3.easye.PNG)
-![images/3.easyprecision](images/3.easyprecision.PNG)
-![images/3.easyrecall](images/3.easyrecall.PNG)
+![images/easyprecision](images/easyprecision.PNG)
+![images/easyrecall](images/easyrecall.PNG)

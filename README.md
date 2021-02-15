@@ -23,7 +23,9 @@ Thanks to Jill I am usings a credid card dataset from LendingClub to oversample 
 RandomOverSampler and SMOTE algorithms. I'll also undersample the data with the ClusterCentroids 
 algorithm. With these methods I use the SMOTEENN algorithm to combine both the over- and undersampling 
 approaches. With the BalancedRandomForestClassifier and the EasyEnsembleClassifier machine learning 
-models I'll reduce bias and predict credit risk. 
+models I'll reduce bias and predict credit risk. To help me clarify the output of these algorithms 
+I've used this source for information on Precision, Recall and F1 Scores. ![https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9](source)
+
 
 For all three algorithms, the following have been completed:
 An accuracy score for the model is calculated (7.5 pt)

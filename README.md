@@ -50,7 +50,12 @@ A confusion matrix has been generated (2.5 pt)
 An imbalanced classification report has been generated (5 pt)
 
 Deliverable 1: Use Resampling Models to Predict Credit Risk
+![images/1.Resampling](images/1.Resampling.PNG)
 Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
+![images/2.smoteenn](images/2.smoteenn.PNG)
 Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
-
+![images/3.easyad](images/3.easyad.PNG)
+Easy Ensemble AdaBoost Classifier
+![images/3.easye](images/3.easye.PNG)
+Balanced Random Forest Classifier
 

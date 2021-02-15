@@ -24,7 +24,8 @@ RandomOverSampler and SMOTE algorithms. I'll also undersample the data with the 
 algorithm. With these methods I use the SMOTEENN algorithm to combine both the over- and undersampling 
 approaches. With the BalancedRandomForestClassifier and the EasyEnsembleClassifier machine learning 
 models I'll reduce bias and predict credit risk. To help me clarify the output of these algorithms 
-I've used this source for information on Precision, Recall and F1 Scores. ![https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9](source)
+I've used this source for information on Precision, Recall and F1 Scores. 
+![Source](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9)
 
 
 For all three algorithms, the following have been completed:

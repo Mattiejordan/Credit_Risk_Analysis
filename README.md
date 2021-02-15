@@ -25,14 +25,14 @@ algorithm. With these methods I use the SMOTEENN algorithm to combine both the o
 approaches. With the BalancedRandomForestClassifier and the EasyEnsembleClassifier machine learning 
 models I'll reduce bias and predict credit risk. To help me clarify the output of these algorithms 
 I've used this source for information on Precision, Recall and F1 Scores. 
-![Source](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9)
+[Source](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9)
 
 
 For all three algorithms, the following have been completed:
 An accuracy score for the model is calculated (7.5 pt)
 A confusion matrix has been generated (7.5 pt)
 An imbalanced classification report has been generated (15 pt)
-![https://github.com/Mattiejordan/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb]
+[Credit_Risk_Resampling](https://github.com/Mattiejordan/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
 Deliverable 1: Use Resampling Models to Predict Credit Risk
 ![images/1.Resampling](images/1.Resampling.PNG)
 
@@ -41,7 +41,7 @@ The combinatorial SMOTEENN algorithm does the following:
 An accuracy score for the model is calculated (5 pt)
 A confusion matrix has been generated (5 pt)
 An imbalanced classification report has been generated (5 pt)
-![https://github.com/Mattiejordan/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb]
+[Credit_Risk_Ensemble](https://github.com/Mattiejordan/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
 Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
 ![images/2.smoteenn](images/2.smoteenn.PNG)
 
